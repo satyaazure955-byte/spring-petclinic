@@ -37,7 +37,7 @@
     <spring-format.version>0.0.47</spring-format.version>
 
     <!-- sonar -->
-    <sonar.host.url>https:/http://136.114.39.110:9000/</sonar.host.url>
+    <sonar.host.url>https://136.114.39.110:9000/</sonar.host.url>
     <sonar.login>admin</sonar.login>
     <sonar.password>Satyaazure953@</sonar.password>
   </properties>
